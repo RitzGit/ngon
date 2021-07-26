@@ -10,3 +10,6 @@ pip install -r requirements.txt
 python ngon.py
 ```
 
+## Plans for the future
+- Rework it to also support output as .svg vector graphics
+- Refactor the code to higher standards
