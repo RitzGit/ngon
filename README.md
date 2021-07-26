@@ -7,7 +7,7 @@ I created it quite some time ago, so the current code quality is not the best. I
 pip install -r requirements.txt
 ```
 
-### Then to draw the n-(gon|gram) run
+### Then, to draw the n-(gon|gram) run
 ```
 python ngon.py
 ```
